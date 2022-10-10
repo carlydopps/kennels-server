@@ -5,7 +5,7 @@
             "name": "Request Handler",
             "type": "python",
             "request": "launch",
-            "program": "./request_handler.py",
+            "program": "./server.py",
             "console": "integratedTerminal",
             "autoReload": {
                 "enable": true
